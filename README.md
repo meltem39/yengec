@@ -19,5 +19,5 @@ php artisan integration:delete {integration_id}
 php artisan test
 
 --------------------- POSTMAN ---------------------
-https://api.postman.com/collections/12977146-98237944-ae1d-46d3-a68b-11a30f1be60d?access_key=PMAT-01HXWFWH85MTJWYW4NC50A4W5H
+
 
