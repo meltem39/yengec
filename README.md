@@ -1,5 +1,6 @@
 
 --------------------- KURULUM ADIMLARI ---------------------
+
 composer i
 env.example dosyasını kopyalayarak .env dosyasını oluşturunuz.
 php artisan key:generate
@@ -10,12 +11,14 @@ php artisan db:seed ___
 
 
 --------------------- COMMAND ---------------------
+
 php artisan integration:list {user_id} 
 php artisan integration:save {user_id} 
 php artisan integration:update {integration_id} 
 php artisan integration:delete {integration_id} 
 
 --------------------- TEST ---------------------
+
 php artisan test
 
 --------------------- POSTMAN ---------------------
